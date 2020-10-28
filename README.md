@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?filepath=data_analysis.ipynb)
+
 # Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas
 
 This repository contains the analysis of data used in the work "*Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas*" that has been published in **Physics of Plasmas**: https://doi.org/10.1063/1.5142084
