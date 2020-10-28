@@ -7,3 +7,5 @@ All the data was computed by the **EPOCH** particle-in-cell code: https://doi.or
 The raw data is available on **Zenodo**: https://zenodo.org/record/3707924#.XmpGHag2pPY
 
 Open the notebook with **Jupyter NBViwever**: https://nbviewer.jupyter.org/github/valenpe7/relativistic_mirrors/blob/master/data_analysis.ipynb
+
+Open the notebook with **Binder**: https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?filepath=data_analysis.ipynb
