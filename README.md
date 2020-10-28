@@ -13,4 +13,4 @@ Open the notebook with **Jupyter NBViwever**: https://nbviewer.jupyter.org/githu
 
 Open the notebook with **Binder**: https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?filepath=data_analysis.ipynb
 
-Cite as: P. Valenta et al., *Physics of Plasmas* **27**, 032109 (2020).
+Cite as: P. Valenta et al., *Phys. Plasmas* **27**, 032109 (2020).
