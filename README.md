@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.1063/1.5142084.svg)](https://doi.org/10.1088/0741-3335/57/11/113001)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?filepath=data_analysis.ipynb)
 
 # Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas
