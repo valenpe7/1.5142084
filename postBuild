@@ -1,0 +1,3 @@
+wget -q -O data.zip "https://zenodo.org/record/3707924/files/data.zip?download=1"
+unzip data.zip
+rm data.zip
