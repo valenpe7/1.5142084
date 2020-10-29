@@ -3,7 +3,7 @@ git clone https://github.com/keithbennett/SDF_utilities.git
 
 dir=$(pwd)
 
-cd $dir/SDF_c
+cd $dir/SDF_C
 make 
 
 cd $dir/SDF_utilities
