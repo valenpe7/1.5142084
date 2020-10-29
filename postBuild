@@ -6,12 +6,14 @@ mkdir $dir/SDF
 cd $dir/SDF
 
 git clone https://github.com/keithbennett/SDF_C.git C
-git clone https://github.com/keithbennett/SDF_utilities.git utilities
-
 cd $dir/SDF/C ; make 
+
+git clone https://github.com/keithbennett/SDF_utilities.git utilities
 cd $dir/SDF/utilities ; ./build
+
+cd $dir
 rm -rf $dir/SDF
 
-wget -q -O $dir/data.zip "https://zenodo.org/record/3707924/files/data.zip?download=1"
-unzip $dir/data.zip
-rm -f $dir/data.zip
+wget -q -O data.zip "https://zenodo.org/record/3707924/files/data.zip?download=1"
+unzip data.zip
+rm data.zip
