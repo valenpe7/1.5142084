@@ -14,3 +14,15 @@ Open the notebook with **Jupyter NBViwever**: https://nbviewer.jupyter.org/githu
 Open the notebook with **Binder**: https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?filepath=data_analysis.ipynb
 
 Cite as: P. Valenta et al., *Phys. Plasmas* **27**, 032109 (2020).
+```
+@article{doi:10.1063/1.5142084,
+        author = {Valenta,P.  and Esirkepov,T. Zh.  and Koga,J. K.  and Pirozhkov,A. S.  and Kando,M.  and Kawachi,T.  and Liu,Y.-K.  and Fang,P.  and Chen,P.  and Mu,J.  and Korn,G.  and Klimo,O.  and Bulanov,S. V. },
+        title = {Recoil effects on reflection from relativistic mirrors in laser plasmas},
+        journal = {Physics of Plasmas},
+        volume = {27},
+        number = {3},
+        pages = {032109},
+        year = {2020},
+        doi = {10.1063/1.5142084},
+        URL = {https://doi.org/10.1063/1.5142084}}
+```
