@@ -3,11 +3,11 @@ export LC_ALL=C
 
 dir=$(pwd)
 mkdir $dir/SDF
-cd $dir/SDF
 
-git clone https://github.com/keithbennett/SDF_C.git C
-git clone https://github.com/keithbennett/SDF_utilities.git utilities
+git clone https://github.com/keithbennett/SDF_C.git $dir/SDF/C
 cd $dir/SDF/C ; make 
+
+git clone https://github.com/keithbennett/SDF_utilities.git $dir/SDF/utilities
 cd $dir/SDF/utilities ; ./build
 
 cd $dir
