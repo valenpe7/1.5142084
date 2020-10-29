@@ -1,3 +1,14 @@
+git clone https://github.com/keithbennett/SDF_C.git
+git clone https://github.com/keithbennett/SDF_utilities.git
+
+dir=$(pwd)
+
+cd $dir/SDF_c
+make 
+
+cd $dir/SDF_utilities
+./build
+
 wget -q -O data.zip "https://zenodo.org/record/3707924/files/data.zip?download=1"
 unzip data.zip
 rm data.zip
