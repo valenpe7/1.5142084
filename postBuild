@@ -1,12 +1,18 @@
-git clone https://github.com/keithbennett/SDF_C.git
-git clone https://github.com/keithbennett/SDF_utilities.git
+#!/bin/bash
+export LC_ALL=C
 
 dir=$(pwd)
 
-cd $dir/SDF_C
+mkdir SDF
+cd $dir/SDF
+
+git clone -o C https://github.com/keithbennett/SDF_C.git
+git clone -o utilities https://github.com/keithbennett/SDF_utilities.git
+
+cd $dir/SDF/C
 make 
 
-cd $dir/SDF_utilities
+cd $dir/SDF/utilities
 ./build
 
 wget -q -O data.zip "https://zenodo.org/record/3707924/files/data.zip?download=1"
