@@ -1,0 +1,18 @@
+#!/bin/bash
+
+export LC_ALL=C
+dir=$(pwd)
+
+# build SDF library
+mkdir $dir/SDF
+git clone https://github.com/keithbennett/SDF_C.git $dir/SDF/C
+cd $dir/SDF/C ; make 
+git clone https://github.com/keithbennett/SDF_utilities.git $dir/SDF/utilities
+cd $dir/SDF/utilities ; ./build
+rm -rf $dir/SDF
+
+# copy data
+cd $dir
+wget -q -O data.zip "https://zenodo.org/record/3707924/files/data.zip?download=1"
+unzip data.zip
+rm -f $dir/data.zip
