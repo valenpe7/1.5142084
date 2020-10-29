@@ -4,10 +4,10 @@ export LC_ALL=C
 dir=$(pwd)
 
 mkdir SDF
-cd $dir/SDF
+cd SDF
 
-git clone -o C https://github.com/keithbennett/SDF_C.git
-git clone -o utilities https://github.com/keithbennett/SDF_utilities.git
+git clone https://github.com/keithbennett/SDF_C.git C
+git clone https://github.com/keithbennett/SDF_utilities.git utilities
 
 cd $dir/SDF/C
 make 
