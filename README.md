@@ -3,7 +3,7 @@
 
 # Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas
 
-This repository contains the supplemental material for the work entitled "*Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas*" that has been published in **Physics of Plasmas** (https://doi.org/10.1063/1.5142084).
+This repository contains the supplemental material for the work entitled "*Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas*" that has been published in AIP **Physics of Plasmas** (https://doi.org/10.1063/1.5142084).
 
 The supplemental material consists of the raw data that has been computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** code (v4.17.3) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
 
@@ -15,16 +15,14 @@ Due to its size (480.3 MB), the raw data used in this work is stored on **Zenodo
 
 ### How to obtain the notebook:
 
-The notebook `data_analysis.ipynb` is stored in this GitHub repository. You may either download the whole repository as a .zip archive by selecting "Code" and then "Download ZIP", or use `git`:
+The notebook `relativistic_mirrors.ipynb` is stored in this GitHub repository. You may either download the whole repository as a .zip archive by selecting "Code" and then "Download ZIP", or use `git`:
 
 1. Clone the repository: ``` $> git clone https://github.com/valenpe7/numerical_methods.git ```
 2. Pull in new changes: ``` $> git pull ```
 
 ### How to launch the notebook:
 
-If you have downloaded the notebook and the data and have all the requirements installed on your computer, you may launch the notebook locally.
-
-Alternatively, if you do not have installed all the requirements, you may launch the notebook on-line using
+If you have downloaded the notebook and the data and have all the requirements installed on your computer, you may launch the notebook locally. Alternatively, if you do not have installed all the requirements, you may launch the notebook on-line using
 * **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/relativistic_mirrors/blob/master/data_analysis.ipynb
 * **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?urlpath=lab/tree/data_analysis.ipynb
 
