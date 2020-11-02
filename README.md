@@ -11,7 +11,7 @@ The code is written in Python 3 programming language and relies on several Pytho
 
 ### How to obtain the data:
 
-Due to its size (480.3 MB), the raw data used in this work is stored on **Zenodo** (https://zenodo.org/record/3707924#.XmpGHag2pPY). You may download them as a .zip archive.
+Due to its size (480.3 MB), the raw data used in this work is stored on **Zenodo**. You may download them as a .zip archive on the following link: https://zenodo.org/record/3707924#.XmpGHag2pPY.
 
 ### How to obtain the notebook:
 
