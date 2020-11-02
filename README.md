@@ -3,7 +3,7 @@
 
 # Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas
 
-This repository contains the supplemental material for the work entitled "*Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas*" that has been published in **Physics of Plasmas**: https://doi.org/10.1063/1.5142084
+This repository contains the supplemental material for the work entitled "*Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas*" that has been published in **Physics of Plasmas** (https://doi.org/10.1063/1.5142084).
 
 The supplemental material consists of the raw data that has been computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** (v4.17.3) particle-in-cell code (https://doi.org/10.1088/0741-3335/57/11/113001) and the Jupyter notebook with the set of commands that have been used for developing the analytical model and generating the figures.
 
@@ -15,7 +15,7 @@ Due to its size (480.3 MB), the raw data used in this work is stored on **Zenodo
 
 ### How to obtain the notebook:
 
-The notebook `data_analysis` is stored in this GitHub repository. You may either download the whole repository as a .zip archive by selecting "Code" and then "Download ZIP", or use `git`:
+The notebook `data_analysis.ipynb` is stored in this GitHub repository. You may either download the whole repository as a .zip archive by selecting "Code" and then "Download ZIP", or use `git`:
 
 1. Clone the repository: ``` $> git clone https://github.com/valenpe7/numerical_methods.git ```
 2. Pull in new changes: ``` $> git pull ```
