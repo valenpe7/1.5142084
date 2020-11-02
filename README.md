@@ -5,9 +5,9 @@
 
 This repository contains the supplemental material for the work entitled "*Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas*" that has been published in **Physics of Plasmas** (https://doi.org/10.1063/1.5142084).
 
-The supplemental material consists of the raw data that has been computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** (v4.17.3) particle-in-cell code (https://doi.org/10.1088/0741-3335/57/11/113001) and the Jupyter notebook with the set of commands that have been used for developing the analytical model and generating the figures.
+The supplemental material consists of the raw data that has been computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** (v4.17.3) code (https://doi.org/10.1088/0741-3335/57/11/113001) and the Jupyter notebook with the set of commands that have been used for developing the analytical model and generating the figures.
 
-The code is written in Python 3 programming language and relies on several Python packages: [numpy](https://github.com/numpy/numpy), [scipy](https://github.com/scipy/scipy), [matplotlib](https://github.com/matplotlib/matplotlib), [sympy](https://github.com/sympy/sympy), and [sdf](https://github.com/keithbennett/SDF).
+The analysis is performed using Python 3 programming language and relies on several Python packages: [numpy](https://github.com/numpy/numpy), [scipy](https://github.com/scipy/scipy), [matplotlib](https://github.com/matplotlib/matplotlib), [sympy](https://github.com/sympy/sympy), and [sdf](https://github.com/keithbennett/SDF).
 
 ### How to obtain the data:
 
