@@ -5,7 +5,7 @@
 
 This repository contains the supplemental material for the work entitled "*Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas*" that has been published in **Physics of Plasmas** (https://doi.org/10.1063/1.5142084).
 
-The supplemental material consists of the raw data that has been computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** (v4.17.3) code (https://doi.org/10.1088/0741-3335/57/11/113001) and the Jupyter notebook with the set of commands that have been used for developing the analytical model and generating the figures.
+The supplemental material consists of the raw data that has been computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** code (v4.17.3) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
 
 The analysis is performed using Python 3 programming language and relies on several Python packages: [numpy](https://github.com/numpy/numpy), [scipy](https://github.com/scipy/scipy), [matplotlib](https://github.com/matplotlib/matplotlib), [sympy](https://github.com/sympy/sympy), and [sdf](https://github.com/keithbennett/SDF).
 
@@ -43,3 +43,7 @@ Cite as: P. Valenta et al., *Phys. Plasmas* **27**, 032109 (2020).
         doi = {10.1063/1.5142084},
         URL = {https://doi.org/10.1063/1.5142084}}
 ```
+
+### Acknowledgements:
+
+This work was supported by ERDF (CZ.02.1.01/0.0/0.0/15_003/0000449), MEYS (LM2015070), JSPS (JP19H00669) and EPSRC (EP/G054950/1, EP/G056803/1, EP/G055165/1, EP/M022463/1).
