@@ -11,7 +11,7 @@ The code is written in Python 3 programming language and relies on several Pytho
 
 ### How to obtain the data:
 
-Due to its size, the raw data used in this work is stored on **Zenodo** (https://zenodo.org/record/3707924#.XmpGHag2pPY). You may download them as a [.zip](https://zenodo.org/record/3707924/files/data.zip?download=1) archive (480.3 MB).
+Due to its size (480.3 MB), the raw data used in this work is stored on **Zenodo** (https://zenodo.org/record/3707924#.XmpGHag2pPY). You may download them as a .zip archive.
 
 ### How to obtain the notebook:
 
@@ -22,7 +22,7 @@ The notebook `data_analysis` is stored in this GitHub repository. You may either
 
 ### How to launch the notebook:
 
-If you have downloaded the notebook and the data and have all the requirements installed your computer, you may start the notebook locally.
+If you have downloaded the notebook and the data and have all the requirements installed on your computer, you may launch the notebook locally.
 
 Alternatively, if you do not have installed all the requirements, you may launch the notebooks on-line using
 * **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/relativistic_mirrors/blob/master/data_analysis.ipynb
