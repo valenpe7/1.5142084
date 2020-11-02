@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.1063/1.5142084.svg)](https://doi.org/10.1063/1.5142084)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?urlpath=lab/tree/data_analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?urlpath=lab/tree/relativistic_mirrors.ipynb)
 
 # Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas
 
@@ -23,8 +23,8 @@ The notebook `relativistic_mirrors.ipynb` is stored in this GitHub repository. Y
 ### How to launch the notebook:
 
 If you have downloaded the notebook and the data and have all the requirements installed on your computer, you may launch the notebook locally. Alternatively, if you do not have installed all the requirements, you may launch the notebook on-line using
-* **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/relativistic_mirrors/blob/master/data_analysis.ipynb
-* **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?urlpath=lab/tree/data_analysis.ipynb
+* **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/relativistic_mirrors/blob/master/relativistic_mirrors.ipynb
+* **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?urlpath=lab/tree/relativistic_mirrors.ipynb
 
 ### How to cite:
 
