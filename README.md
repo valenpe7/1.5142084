@@ -17,7 +17,7 @@ Due to its size (480.3 MB), the raw data used in this work is stored on **Zenodo
 
 The notebook `relativistic_mirrors.ipynb` is stored in this GitHub repository. You may either download the whole repository as a .zip archive by selecting "Code" and then "Download ZIP", or use `git`:
 
-1. Clone the repository: ``` $> git clone https://github.com/valenpe7/numerical_methods.git ```
+1. Clone the repository: ``` $> git clone https://github.com/valenpe7/relativistic_mirrors.git ```
 2. Pull in new changes: ``` $> git pull ```
 
 ### How to launch the notebook:
