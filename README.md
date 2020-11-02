@@ -24,6 +24,7 @@ The notebook `relativistic_mirrors.ipynb` is stored in this GitHub repository. Y
 
 If you have downloaded the notebook and the data and have all the requirements installed on your computer, you may launch the notebook locally. Alternatively, if you do not have installed all the requirements, you may launch the notebook on-line using
 * **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/relativistic_mirrors/blob/master/relativistic_mirrors.ipynb
+
 * **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?urlpath=lab/tree/relativistic_mirrors.ipynb
 
 ### How to cite:
