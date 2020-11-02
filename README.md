@@ -3,9 +3,9 @@
 
 # Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas
 
-This repository contains the supplemental material for the work entitled "*Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas*" that has been published in AIP **Physics of Plasmas** (https://doi.org/10.1063/1.5142084).
+This repository contains the supplemental material for the work entitled "*Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas*" published in AIP **Physics of Plasmas** (https://doi.org/10.1063/1.5142084).
 
-The supplemental material consists of the raw data that has been computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** code (v4.17.3) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
+The supplemental material consists of the raw data computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** code (v4.17.3) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
 
 The analysis is performed using Python 3 programming language and relies on several Python packages: [numpy](https://github.com/numpy/numpy), [scipy](https://github.com/scipy/scipy), [matplotlib](https://github.com/matplotlib/matplotlib), [sympy](https://github.com/sympy/sympy), and [sdf](https://github.com/keithbennett/SDF).
 
