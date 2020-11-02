@@ -9,9 +9,9 @@ All the data was computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)
 
 The raw data is available on **Zenodo**: https://zenodo.org/record/3707924#.XmpGHag2pPY
 
-* Launch the notebook with **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/relativistic_mirrors/blob/master/data_analysis.ipynb
-
-* Launch the notebook with **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?urlpath=lab/tree/data_analysis.ipynb
+Launch the notebook on-line using
+* **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/relativistic_mirrors/blob/master/data_analysis.ipynb
+* **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?urlpath=lab/tree/data_analysis.ipynb
 
 Cite as: P. Valenta et al., *Phys. Plasmas* **27**, 032109 (2020).
 ```
