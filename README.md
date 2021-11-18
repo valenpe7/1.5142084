@@ -1,9 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.1063/1.5142084.svg)](https://doi.org/10.1063/1.5142084)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?urlpath=lab/tree/relativistic_mirrors.ipynb)
 
-# Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas
+# Recoil effects on reflection from relativistic mirrors in laser plasmas
 
-This repository contains supplementary material for the work entitled "*Recoil Effects on Reflection from Relativistic Mirrors in Laser Plasmas*" that has been published in AIP **Physics of Plasmas** (https://doi.org/10.1063/1.5142084).
+This repository contains supplementary material for the work entitled "*Recoil effects on reflection from relativistic mirrors in laser plasmas*" that has been published in AIP **Physics of Plasmas** (https://doi.org/10.1063/1.5142084).
 
 The supplementary material consists of the raw data computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** code (v4.17.3) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
 
