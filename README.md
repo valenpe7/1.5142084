@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.1063/1.5142084.svg)](https://doi.org/10.1063/1.5142084)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?urlpath=lab/tree/relativistic_mirrors.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/1.5142084/master?urlpath=lab/tree/relativistic_mirrors.ipynb)
 
 # Recoil effects on reflection from relativistic mirrors in laser plasmas
 
@@ -17,15 +17,15 @@ Due to its size (480.3 MB), the raw data used in this work is stored on **Zenodo
 
 The notebook `relativistic_mirrors.ipynb` is stored in this GitHub repository. You may either download the whole repository as a .zip archive by selecting "Code" and then "Download ZIP", or use `git`:
 
-1. Clone the repository: ``` $> git clone https://github.com/valenpe7/relativistic_mirrors.git ```
+1. Clone the repository: ``` $> git clone https://github.com/valenpe7/1.5142084.git ```
 2. Pull in new changes: ``` $> git pull ```
 
 ### How to launch the notebook:
 
 If you have downloaded the notebook and the data and have all the requirements installed on your computer, you may launch the notebook locally. Alternatively, if you do not have installed all the requirements, you may launch the notebook on-line using
-* **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/relativistic_mirrors/blob/master/relativistic_mirrors.ipynb
+* **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/1.5142084/blob/master/relativistic_mirrors.ipynb
 
-* **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/relativistic_mirrors/master?urlpath=lab/tree/relativistic_mirrors.ipynb
+* **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/1.5142084/master?urlpath=lab/tree/relativistic_mirrors.ipynb
 
 ### How to cite:
 
