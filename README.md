@@ -1,17 +1,18 @@
 [![DOI](https://zenodo.org/badge/DOI/10.1063/1.5142084.svg)](https://doi.org/10.1063/1.5142084)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/valenpe7/1.5142084/blob/master/relativistic_mirrors.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/1.5142084/master?urlpath=lab/tree/relativistic_mirrors.ipynb)
 
 # Recoil effects on reflection from relativistic mirrors in laser plasmas
 
-This repository contains supplementary material for the work entitled "*Recoil effects on reflection from relativistic mirrors in laser plasmas*" that has been published in AIP **Physics of Plasmas** (https://doi.org/10.1063/1.5142084).
+This repository contains supplementary material for the paper P. Valenta et al., "Recoil effects on reflection from relativistic mirrors in laser plasmas", *Physics of Plasmas* **27**, 032109 (2020); [https://doi.org/10.1063/1.5142084](https://doi.org/10.1063/1.5142084).
 
-The supplementary material consists of the raw data computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** code (v4.17.3) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
+The supplementary material consists of the raw data and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for generating figures.
 
-The analysis is performed using Python 3 programming language and relies on several Python packages: [numpy](https://github.com/numpy/numpy), [scipy](https://github.com/scipy/scipy), [matplotlib](https://github.com/matplotlib/matplotlib), [sympy](https://github.com/sympy/sympy), and [sdf](https://github.com/keithbennett/SDF).
+The analysis is performed using Python programming language and relies on several Python packages (see the `requirements.txt` file).
 
 ### How to obtain the data:
 
-Due to its size (480.3 MB), the raw data used in this work is stored on **Zenodo**. You may download the data as a .zip archive on the following link: https://zenodo.org/record/3707924#.XmpGHag2pPY.
+The raw data used in this work are openly available in a **[Zenodo](https://zenodo.org/records/3707924)** repository. You may download the data as a .zip archive (480.3 MB) on the following link: [https://zenodo.org/records/3707924/files/data.zip?download=1](https://zenodo.org/records/3707924/files/data.zip?download=1).
 
 ### How to obtain the notebook:
 
