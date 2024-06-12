@@ -1,4 +1,4 @@
-numpy
-scipy
-matplotlib
-sympy
+numpy==1.15.4
+scipy==1.0.0
+matplotlib==2.1.2
+sympy==1.1.1
